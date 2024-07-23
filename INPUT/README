@@ -1,1 +1,6 @@
-she
+The dro accepts 5v quadrature encoded signals for
+all supported axes.  The PPR is configurable in order to support
+leadscrews, ballscrews, inch, metric,  etc.
+
+The dro also accepts a 5v singled pulse as a tachometer signal for the machine's 
+spindle.  The PPR of that signal is also configurable. 
