@@ -1,1 +1,5 @@
-jihih
+The dro uses hardware assist in order to count quadrature
+pulses.  This translates to getting the display of coordinates
+as fast as possible.  This is useful should the dro be used in 
+a cnc environment where cnc rapids are used.  The result is minimal
+latency.
